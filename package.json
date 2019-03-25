@@ -1,0 +1,26 @@
+{
+  "name": "parcel-exeriments",
+  "version": "1.0.0",
+  "description": "This is first parcel experiment file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guswo5580/parcel-exeriments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guswo5580/parcel-exeriments/issues"
+  },
+  "homepage": "https://github.com/guswo5580/parcel-exeriments#readme",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5"
+  }
+}
