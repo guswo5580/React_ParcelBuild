@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/guswo5580/parcel-exeriments#readme",
   "dependencies": {
+    "autoprefixer": "^9.5.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
+    "postcss-modules": "^1.4.1",
     "react": "^16.8.5",
     "react-dom": "^16.8.5"
   },

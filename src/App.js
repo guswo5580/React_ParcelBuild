@@ -1,3 +1,4 @@
 import React from 'react';
+import styles from './styles.scss';
 
-export default () => <div>Hello</div>
+export default () => <div className={styles.title}>Hello</div>

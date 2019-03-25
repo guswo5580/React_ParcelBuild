@@ -7,7 +7,7 @@ as a code bundler.
 
 - React
 - ES6 with Babel
-- SCSS
+- SCSS -> CSS (postcss-module)
 - CSS Modules 
 - Typography.js
 - Build for production
